@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+background-color: cadetblue;
+}
+.container{
+  
+    height: 600px;
+    background-image: url(snak.jpg);
+    background-size: cover;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+canvas{
+   
+ background-color: black;
+ 
+  background-color: black; /* Solid background color */
+  opacity: 0.8; /* Makes the entire div, including background and text, 50% transparent */
+  color: rgb(255, 255, 255);
+
+
+
+
+ 
+}
