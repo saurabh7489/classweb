@@ -1,0 +1,41 @@
+body{
+    background-image: url(../secondpage/snak.jpg);
+        background-size: cover;
+}
+div{
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+   
+}
+a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   color: bisque;
+    font-weight: bolder;
+   font-family: sans-serif;
+    text-decoration: none;
+    letter-spacing: 8px;
+   
+}
+.newgame{
+  margin-bottom: 20px;
+    height: 80px;
+    width: 270px;
+    background-color: rgb(48, 46, 46); /* Solid background color */
+  opacity: 0.8; /* Makes the entire div, including background and text, 50% transparent */
+  color: rgb(255, 255, 255);
+    border-radius: 30%;
+   
+}
+.play{
+    height: 80px;
+    width: 270px;
+    background-color:rgb(48, 46, 46); /* Solid background color */
+  opacity: 0.8; /* Makes the entire div, including background and text, 50% transparent */
+  color: rgb(255, 255, 255);
+    border-radius: 30%;
+}
