@@ -23,7 +23,7 @@ canvas{
   background-color: black; /* Solid background color */
   opacity: 0.8; /* Makes the entire div, including background and text, 50% transparent */
   color: rgb(255, 255, 255);
-
+border-radius: 2%;
 
 
 
