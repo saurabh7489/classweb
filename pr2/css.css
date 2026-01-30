@@ -1,34 +1,9 @@
-body {
-  background: #f2d64b; /* background color */
+h1{text-align: center;
+background-color: aqua;
 }
-
-.bar {
-  position: relative;
-  width: 50px;
-  height: 200px;
-  background: #8b1d2c;
-  margin: 100px auto;
-  overflow: hidden;
-}
-
-/* left curve */
-.bar::before,
-.bar::after {
-  content: "";
-  position: absolute;
-  width: 140px;
-  height: 140px;
-  background: #f2d64b; /* same as background */
-  border-radius: 50%;
-  top: 50%;
-  transform: translateY(-50%);
-}
-
-.bar::before {
-  left: -120px;
-}
-
-/* right curve */
-.bar::after {
-  right: -120px;
+*{background-color: blue;}
+.ho{background-color:wheat;}
+#he{
+    text-align:right;
+    letter-spacing:20px;
 }
