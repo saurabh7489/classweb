@@ -1,9 +1,27 @@
-h1{text-align: center;
-background-color: aqua;
+*{
+    margin: 0px;
+    padding: 0px;
 }
-*{background-color: blue;}
-.ho{background-color:wheat;}
-#he{
-    text-align:right;
-    letter-spacing:20px;
+div{
+    height: 90px;
+    background-color: black;
+   
+    
 }
+a{
+text-decoration: none;
+color: white;
+padding-right:  190px;
+}
+#amozen{ 
+    color: #f08804;
+    font-size: 25px;
+
+    
+}
+button{
+    background-color: #f08804;
+    color: white;
+}
+
+   
