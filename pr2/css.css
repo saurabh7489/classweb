@@ -2,26 +2,34 @@
     margin: 0px;
     padding: 0px;
 }
-div{
+.navbar{
     height: 90px;
-    background-color: black;
-   
-    
+background-color: black;
+
+}
+.a{
+    height: 100px;
+    width: 100px;
 }
 a{
-text-decoration: none;
-color: white;
-padding-right:  190px;
-}
-#amozen{ 
-    color: #f08804;
-    font-size: 25px;
-
+    color: white;
+    text-decoration: none;
+    padding-right: 170px;
     
 }
-button{
-    background-color: #f08804;
-    color: white;
+.yellow{
+    color: rgb(170, 168, 37);
+    font-size: 25px;
 }
+button{
+  background-color: rgb(178, 178, 82);
+  color: white;
+}
+    
+
+
+
+
+
 
    
