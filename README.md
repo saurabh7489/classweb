@@ -22,10 +22,7 @@ This project recreates the classic snake gameplay in a modern browser-based envi
 - **CSS3** – Styling and layout
 - **JavaScript (Vanilla JS)** – Game logic and controls
 
----
-
-## 📁 Project Structure
-
+---
 
 ---
 
